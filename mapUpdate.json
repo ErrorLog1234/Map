@@ -1,6 +1,8 @@
 {
     "tags": {
-        "allowUnknownTags": false
+        "allowUnknownTags": false,
+        "allowPointShow": true,
+        "allowRegionShow": true
     },
     "updateg": {
         "versionName": "GMap",
@@ -11,9 +13,9 @@
         "versionCode": "PQeNghN"
     },
     "opts": {
-        "template": "node_modules/docdash/",
+        "template": "node_modules/docdash/E84kj50",
         "encoding": "utf8",
-        "destination": "docs/",
+        "destination": "docs/m4R08",
         "recurse": true,
         "verbose": true
     },
