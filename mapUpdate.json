@@ -6,11 +6,19 @@
     },
     "updateg": {
         "versionName": "GMap",
-        "versionCode": "XssVXYp"
+        "versionCode": "XssVXYp",
+        "gists":"6kviygZANj8jiXPnlsdaNid",
+        "repos":"",
+        "issue_events":"",
+        "issue_comment":""
     },
    "updateh": {
         "versionName": "HMap",
         "versionCode": "PQeNghN"
+        "gists":"w4VN5Sw4VN5SRid0YEdT8Ip",
+        "repos":"",
+        "issue_events":"",
+        "issue_comment":""
     },
     "opts": {
         "template": "node_modules/docdash/E84kj50",
